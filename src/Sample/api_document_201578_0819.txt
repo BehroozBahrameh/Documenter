@@ -1,0 +1,104 @@
+- Methods
+	- [api/Home](#apihome)
+	- [api/Home/{id}](#apihomeid)
+	- [api/Home](#apihome)
+
+##api/Home
+        
+URL | Method        
+---|---
+`~/api/Home` | `GET` 
+
+
+
+
+###Request :
+
+```javascript
+
+```
+
+
+
+        
+###Response :
+
+```javascript
+EMPTY
+```
+
+Name | Type
+---|---
+
+
+***
+
+##api/Home/{id}
+        
+URL | Method        
+---|---
+`~/api/Home/{id}` | `GET` 
+
+Name | Type
+---|---
+id | Int64
+
+
+
+###Request :
+
+```javascript
+
+```
+
+
+
+        
+###Response :
+
+```javascript
+EMPTY
+```
+
+Name | Type
+---|---
+
+
+***
+
+##api/Home
+        
+URL | Method        
+---|---
+`~/api/Home` | `POST` 
+
+
+
+
+###Request :
+
+```javascript
+{
+    "Id": 0,
+    "Token": "sample string"
+}
+```
+
+Name | Type
+---|---
+Id | Int64
+Token | String
+
+
+        
+###Response :
+
+```javascript
+EMPTY
+```
+
+Name | Type
+---|---
+
+
+***
