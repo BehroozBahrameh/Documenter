@@ -39,3 +39,7 @@ Create method get collection of ApiDocument object, each ApiDocument object is a
         public string ResponseJson { get; set; } //Sample JSON of response object
     }
 ```
+
+##Install via Nuget
+
+ `PM> Install-Package Rocket.Web.Documenter.Core` (Nuget link)[https://www.nuget.org/packages/Rocket.Web.Documenter.Core/0.0.1]
