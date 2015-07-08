@@ -1,5 +1,6 @@
 # Documenter
 lightweight document generator for Asp.net WebApi.
+view [sample code](https://github.com/BehroozBahrameh/Documenter/tree/master/src/Sample) generate [Documenter markdown](https://github.com/BehroozBahrameh/Documenter/wiki/Sample-code-generated-markdown)
 
 By default Documenter generate markdown documentation  but you can develop your owned appender.
 
