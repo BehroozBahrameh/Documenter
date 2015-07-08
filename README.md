@@ -42,4 +42,4 @@ Create method get collection of ApiDocument object, each ApiDocument object is a
 
 ##Install via Nuget
 
- `PM> Install-Package Rocket.Web.Documenter.Core` (Nuget link)[https://www.nuget.org/packages/Rocket.Web.Documenter.Core/0.0.1]
+ `PM> Install-Package Rocket.Web.Documenter.Core`
